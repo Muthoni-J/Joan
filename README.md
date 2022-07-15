@@ -9,10 +9,9 @@
 * 💬 Ask me about anything related to tech
 * ❤️ I love UI/UX Design
 
-
-# Hi there, I'm Joan 👋 
-
 # ⚡  About Me
+
+
 
 
 # 📫 How to reach me:
