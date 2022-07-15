@@ -4,11 +4,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👋 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
 
 
@@ -27,7 +27,7 @@
 # 📫 How to reach me:
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://twitter.com/JoanMut93389033)
 
-### Languages and Tools:
+<h2> 🚀 &nbsp;Some Tools I Have Used</h2>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
