@@ -2,9 +2,7 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=WELCOME!🕹️&animation=fadeIn&type=waving&color=gradient&height=46"/>
-</p>
+
 
 ### Hi there 👋
 * 👂 My name is Joan Muthoni
@@ -18,7 +16,9 @@
 
 # ⚡  About Me
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=WELCOME!🕹️&animation=fadeIn&type=waving&color=gradient&height=46"/>
+</p>
 
 
 # 📫 How to reach me:
