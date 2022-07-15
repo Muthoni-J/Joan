@@ -1,12 +1,21 @@
-<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
+
+### Hi there 👋
+* 👂 My name is Joan Muthoni
+* 👩 Pronouns: She, Her, Hers
+* 🔭 I’m currently working on Personnal projects
+* 🌱 I’m currently learning Information Technology
+* 🤝 I’m looking to collaborate on open source projects
+* 🤔 I’m looking for help with my career path in Tech 
+* 💬 Ask me about anything related to tech
+* ❤️ I love UI/UX Design
 
 
 # Hi there, I'm Joan 👋 
 
-# About Me
+# ⚡  About Me
 
 
-# Reach out
+# 📫 How to reach me:
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://twitter.com/JoanMut93389033)
 
 
