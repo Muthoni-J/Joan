@@ -1,7 +1,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 
 ### Hi there 👋
@@ -15,10 +17,6 @@
 * ❤️ I love UI/UX Design
 
 # ⚡  About Me
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=WELCOME!🕹️&animation=fadeIn&type=waving&color=gradient&height=46"/>
-</p>
 
 
 # 📫 How to reach me:
