@@ -1,4 +1,4 @@
-# Joan
+# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joan&show_icons=true&theme=radical)
 
 
