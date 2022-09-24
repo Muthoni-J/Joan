@@ -26,17 +26,6 @@
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://twitter.com/JoanMut93389033)
 [![LinkeIn URL]([https://img.shields.io/linkedin/url/https/linkedin.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://www.linkedin.com/in/joan-muthoni-7b8670233/)
 [![Behance URL](https://img.shields.io/behance/url/https/behance.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://www.behance.net/joanmuthoni)
-</a>
-<!-- <a href="https://twitter.com/MercyWacera4">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/MercyWacera4.svg?style=social&label=Follow%20%40MercyWacera4">
-</a>
-<a href="https://www.linkedin.com/in/mercy-wacera-206671233/">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:waceraaamercy@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
- -->
 
 <h2> 🚀 &nbsp;Some Tools I Have Used</h2>
 <p align="left">
