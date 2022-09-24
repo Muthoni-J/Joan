@@ -23,7 +23,7 @@
 
 # 📫 How to reach me:
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://twitter.com/JoanMut93389033)
-[![LinkeIn URL](https://img.shields.io/linkedin/url/https/linkedincom/Joan.svg?style=social&label=Follow%20%40Joan)](https://linkedin.com/joan-muthoni-7b8670233)
+[![LinkeIn URL](https://img.shields.io/linkedin/url/https/linkedincom/Joan.svg?style=social&label=Follow%20%40Joan)](https://www.linkedin.com/in/joan-muthoni-7b8670233/))
 
 <h2> 🚀 &nbsp;Some Tools I Have Used</h2>
 <p align="left">
