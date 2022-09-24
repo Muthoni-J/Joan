@@ -24,7 +24,7 @@
 # 📫 How to reach me:
 [![Github URL](https://img.shields.io/github/url/https/github.com/Joan.svg?style=social&label=Follow%20%40Joan)]([https://github.com/JoanMut93389033](https://github.com/Muthoni-J))
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://twitter.com/JoanMut93389033)
-[![LinkeIn URL](https://img.shields.io/linkedin/url/https/linkedin.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://www.linkedin.com/in/joan-muthoni-7b8670233/)
+[![LinkeIn URL]([https://img.shields.io/linkedin/url/https/linkedin.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/joan-muthoni-7b8670233/)
 [![Behance URL](https://img.shields.io/behance/url/https/behance.com/Joan.svg?style=social&label=Follow%20%40Joan)](https://www.behance.net/joanmuthoni)
 </a>
 <a href="https://twitter.com/MercyWacera4">
